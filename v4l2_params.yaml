@@ -1,0 +1,11 @@
+/v4l2_camera:
+    ros__parameters:
+        scene_mode: 11
+        compression_quality: 1
+        iso_sensitivity_auto: 1
+        iso_sensitivity: 2
+        auto_exposure: 1
+        exposure_dynamic_framerate: False
+        exposure_time_absolute: 30
+        frame_rate: 60
+        image_size: [320, 240]

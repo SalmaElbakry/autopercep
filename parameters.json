@@ -1,0 +1,14 @@
+{
+    "wanted_bodies": ["car_ob", "car_4"],
+    "angle_range": [-50, 50],
+    "corner1": [-1300, 1300], 
+    "corner2": [1300, -1300], 
+    "rot_index": 3,
+    "update_time": 0.05,
+    "minimal_dist": 400,
+    "away_scale": 2,
+    "angular_speed": 190,
+    "save_folder": "/home/pi/360_images",
+    "save_interval": 0.05,
+    "rotate_scale": 1
+}

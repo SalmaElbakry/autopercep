@@ -1,0 +1,9 @@
+/opencv_cam:
+  ros__parameters:
+    file: False
+    filename: ''
+    fps: 30
+    height: 1920
+    width: 1080
+    camera_info_path: 'cam_info_dummy.ini'
+    camera_frame_id: 'picam360'
